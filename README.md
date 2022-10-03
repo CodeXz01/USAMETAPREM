@@ -59,7 +59,7 @@ $ cd USAMETAPREM
 
 $ git pull
 
-$ python NextMeta.py
+$ python METAV3.py
 
 
 
