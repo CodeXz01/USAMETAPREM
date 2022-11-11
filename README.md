@@ -59,7 +59,7 @@ $ cd USAMETAPREM
 
 $ git pull
 
-$ python METAV3.py
+$ python run.py
 
 
 
