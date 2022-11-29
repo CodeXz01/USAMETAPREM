@@ -59,7 +59,7 @@ $ cd USAMETAPREM
 
 $ git pull
 
-$ python run.py
+$ python fbV1.py
 
 
 
